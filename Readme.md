@@ -22,6 +22,6 @@ The Hadith on Divination: The Prophet Muhammad (PBUH) discouraged practices like
 
 "Whoever goes to a fortune teller and asks him about anything, his prayers will not be accepted for forty days." (Sahih Muslim)
 
-by this act we can have clue the in Previous time the influence of Palmistry was in Islam too but it considered to illegal and not aligned with Islamic feelings
+by this act we can have clue that in Previous time the influence of Palmistry was in Islam too but it considered to illegal and not aligned with Islamic feelings
 
 Because in Islam holy book Quran Say, ‘None in the heavens and earth knows the unseen except Allah'
