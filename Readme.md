@@ -62,7 +62,42 @@ The Quran states:
 > *(Surah An-Naml 27:65)*
  
 ---
-Images
-![Alt text](image_url)
+# Images
 
-[Link Text](https://www.example.com)
+## Project Start
+### click on Select the Image
+![Image Project Startung Window](https://github.com/user-attachments/assets/18852bf7-b40e-4e49-9420-e7f370ebee02)
+--
+### Select Image
+![ImageSelection](https://github.com/user-attachments/assets/fc953f34-5008-4edc-a67f-1f619fb56359)
+---
+### Image Selected Preview
+#### Menu
+ - Know Your Planet
+ - Analyse Middle Finger
+ - Palm Analysis
+ - Quit
+
+![Menu and selected image preview](https://github.com/user-attachments/assets/3919230f-c2fa-4b7d-b571-895d59cd32e2)
+---
+### Click on Any Option other than Quit
+for now, go with
+`Know Your Planet`
+![Click On the button and result](https://github.com/user-attachments/assets/5e05bfca-6b20-4641-be55-559498796f0b)
+---
+# Use as Module
+### If you want to use that in your project then make this commmand in your terminal
+- > Install only palmReader module and use it's function - `git clone https://github.com/civdix/MiniProject-RitualGuru/tree/main/com_ritualGuru_palmreader`
+- > Clone Whole Repo - `git clone https://github.com/civdix/MiniProject-RitualGuru`
+# Sociel Media Links
+ - Blog <a href="https://shivamfrommathura.blogspot.com/2024/12/palmy-palm-reader-gui-based.html">Blog <img width=15 src="https://www.freeiconspng.com/thumbs/blogger-logo-icon-png/blogger-logo-icon-png-10.png"/></a>
+ - Youtube Video <a href="">Youtube Video <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRSibuzODLb5lETQ6fI9ebq-FQjWwL-7cBWQ&s" width=15 /></a>
+ - Github <a href="https://github.com/civdix/MiniProject-RitualGuru/">Github <img src="https://icon2.cleanpng.com/20180628/ukg/aayi54wda.webp" width=15/></a>
+ - Youtube <a href="">ShivDix <img width=15 src="https://yt3.googleusercontent.com/38T7oeXfH6KC6ru01xzwYGSzwea3MIUoPSOgYsXYTeMhBtM0tR7DpaNlms5KblDyfz2II9yIEA=s160-c-k-c0x00ffffff-no-rj"/></a>
+
+#### Feel Free to Spaar with code 
+- Find Bugs
+- report Bugs
+- fix bugs
+- Make Contributions
+- Add feature
