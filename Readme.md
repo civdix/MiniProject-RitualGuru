@@ -1,4 +1,3 @@
-# Palmistry Beliefs Across Religions
 
 ## Install Instructions for Local Environment
 
@@ -11,6 +10,7 @@
 Run **Tkinter.py** for GUI interaction.  
 The code is located in the `com_ritualGuru_palmreader` package.
 
+# Palmistry Beliefs Across Religions
 ---
 
 ## Hinduism or Sanatan Belief in Palmistry
@@ -60,3 +60,9 @@ The Quran states:
 
 > "None in the heavens and earth knows the unseen except Allah."  
 > *(Surah An-Naml 27:65)*
+
+---
+Images
+![Alt text](image_url)
+
+[Link Text](https://www.example.com)
