@@ -60,7 +60,7 @@ The Quran states:
 
 > "None in the heavens and earth knows the unseen except Allah."  
 > *(Surah An-Naml 27:65)*
-
+ 
 ---
 Images
 ![Alt text](image_url)
